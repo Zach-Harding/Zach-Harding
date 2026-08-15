@@ -4,7 +4,7 @@
 
 B.S. Computer Engineering @ Northwestern (McCormick) '26 · Minor in Economics · Managerial Analytics certificate from Kellogg · Seattle, WA
 
-I build systems where silicon meets signal: flight recorders that survive power loss, vision pipelines that run on a Raspberry Pi, and the power boards underneath both.
+I build everything from flight recorders that survive power loss, vision pipelines that run on a Raspberry Pi, and the power boards underneath both, and texture recognition sotware for tree identification.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zachharding34-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachharding34/)
 [![Email](https://img.shields.io/badge/Email-zachharding34@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zachharding34@gmail.com)
